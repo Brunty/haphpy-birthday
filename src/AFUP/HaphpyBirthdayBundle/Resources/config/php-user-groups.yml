@@ -1,5 +1,15 @@
 ---
 
+aberdeen_php:
+    displayed_name: Aberdeen PHP
+    full_name:      Aberdeen PHP User Group
+    parent:
+    picture:        aberdeen-php.png
+    website:        http://www.aberdeenphp.co.uk/
+    twitter:        AberdeenPhp
+    country:        uk
+    city:           Aberdeen
+
 afup:
     displayed_name: afup
     full_name:      Association Française des Utilisateurs de PHP (French PHP Users Group)
@@ -89,3 +99,93 @@ afup_toulouse:
     twitter:        afup_toulouse
     country:        France
     city:           Paris
+
+kansai_pug:
+    displayed_name: Kansai PHP Users Group
+    full_name:      Kansai PHP Users Group
+    parent:         ~
+    picture:        kansai.png
+    website:        http://www.kphpug.jp/
+    twitter:        kphpug
+    country:        Japan
+    city:           Kansai
+
+moroccan_php_artisans:
+    displayed_name: Moroccan PHP Artisans
+    full_name:      Moroccan PHP Artisans
+    parent:         ~
+    picture:        moroccan-php-artisans.png
+    website:        http://moroccanphpartisans.github.io/
+    twitter:        MPHPArtisans
+    country:        Morocco
+    city:           ~
+
+nashville:
+    displayed_name: Nashville PHP
+    full_name:      Nashville PHP
+    parent:         ~
+    picture:        nashville.jpg
+    website:        http://nashvillephp.org/
+    twitter:        nashvillephp
+    country:        USA
+    city:           Nashville
+
+php_barcelona:
+    displayed_name: PHP Barcelona
+    full_name:      Barcelona PHP Users Group
+    parent:         ~
+    picture:        php-bcn.png
+    website:        http://phpbarcelona.org
+    twitter:        phpbarcelona
+    country:        Spain
+    city:           Barcelona
+
+rio:
+    displayed_name: PHP Rio
+    full_name:      Rio PHP Users Group
+    parent:         ~
+    picture:        rio.png
+    website:        http://phprio.org/
+    twitter:        phprio
+    country:        Brazil
+    city:           Rio de Janeiro
+
+seattle:
+    displayed_name: SEA PHP
+    full_name:      Seattle PHP User Group
+    parent:         ~
+    picture:        seaphp.jpg
+    website:        http://www.meetup.com/seaphp/
+    twitter:        seaphp
+    country:        USA
+    city:           Seattle
+
+sydney_php_group:
+    displayed_name: Sydney PHP Group
+    full_name:      Sydney PHP Group
+    parent:         ~
+    picture:        sydphp.png
+    website:        http://sydphp.org/
+    twitter:        sydphp
+    country:        Australia
+    city:           Sydney
+
+utah:
+    displayed_name: Utah PHP Usergroup
+    full_name:      Utah PHP Usergroup
+    parent:         ~
+    picture:        uphpu.png
+    website:        http://uphpu.org/
+    twitter:        uphpu
+    country:        USA
+    city:           Utah
+
+vilnius_php:
+    displayed_name: Vilnius PHP
+    full_name:      Vilnius PHP Users Group
+    parent:         ~
+    picture:        vilnius-php.jpg
+    website:        http://www.vilniusphp.lt/
+    twitter:        vilniusphp
+    country:        Lituania
+    city:           Vilnius
