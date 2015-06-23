@@ -100,6 +100,16 @@ afup_toulouse:
     country:        France
     city:           Paris
 
+edmonton:
+    displayed_name: Edmonton PHP User Group
+    full_name:      Edmonton PHP User Group
+    parent:         ~
+    picture:        yeg.png
+    website:        http://www.meetup.com/yegphp/
+    twitter:        yegphp
+    country:        Canada
+    city:           Edmonton
+
 kansai_pug:
     displayed_name: Kansai PHP Users Group
     full_name:      Kansai PHP Users Group
@@ -120,6 +130,16 @@ moroccan_php_artisans:
     country:        Morocco
     city:           ~
 
+munich:
+    displayed_name: PHP UserGroup Munich
+    full_name:      PHP UserGroup Munich
+    parent:         ~
+    picture:        munich.png
+    website:        http://www.meetup.com/phpugmunich/
+    twitter:        phpugmunich
+    country:        Germany
+    city:           Munich
+
 nashville:
     displayed_name: Nashville PHP
     full_name:      Nashville PHP
@@ -129,6 +149,16 @@ nashville:
     twitter:        nashvillephp
     country:        USA
     city:           Nashville
+
+newyork:
+    displayed_name: New York PHP
+    full_name:      New York PHP
+    parent:         ~
+    picture:        newyork.jpg
+    website:        http://www.meetup.com/new-york-php/
+    twitter:        nyphp
+    country:        USA
+    city:           New York City
 
 php_barcelona:
     displayed_name: PHP Barcelona
@@ -179,6 +209,26 @@ utah:
     twitter:        uphpu
     country:        USA
     city:           Utah
+
+venezuela:
+    displayed_name: Comunidad PHP de Venezuela
+    full_name:      Comunidad PHP de Venezuela
+    parent:         ~
+    picture:        venezuela.png
+    website:        http://php.org.ve/
+    twitter:        PHPdeVenezuela
+    country:        Venezuela
+    city:           ~
+
+vienna:
+    displayed_name: Vienna PHP
+    full_name:      Vienna PHP User Group
+    parent:         ~
+    picture:        vienna.png
+    website:        http://viennaphp.org/
+    twitter:        ViennaPHP
+    country:        Austria
+    city:           Vienna
 
 vilnius_php:
     displayed_name: Vilnius PHP
